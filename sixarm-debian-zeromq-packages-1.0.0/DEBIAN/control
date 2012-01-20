@@ -1,0 +1,12 @@
+Package: sixarm-debian-zeromq-packages
+Version: 1.0.0
+Section: devel
+Priority: optional
+Architecture: all
+Depends: libzmq1, libzmq-dev, libzmq-dbg
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: ZeroMQ packages we like to use
+ ZeroMQ packages we like to use together.
+
+
+
